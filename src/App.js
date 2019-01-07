@@ -42,10 +42,6 @@ class App extends Component {
             </h3>
           </center>
           <div className="form" style={this.styles.forms}>
-            <div>
-              <label for="exampleFormControlFile1">Example file input</label>
-              <input type="file" class="form-control-file" />
-            </div>
             <div className="row">
               <input
                 className="form-control form-control-lg col-2"
